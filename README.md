@@ -1,2 +1,2 @@
 # dimitrimichaux.com
-Repository for utterances comments on https://dimitrimichaux.com
+Repository for comments on https://dimitrimichaux.com
